@@ -1,0 +1,13 @@
+HELP.md
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+mvnw.cmd
+
+### STS ###
+.apt_generated
+.classpath
+.project
+.settings
+.springBeans
+
